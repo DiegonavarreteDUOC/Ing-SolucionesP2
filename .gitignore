@@ -1,0 +1,15 @@
+# Python & Entornos
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# ChromaDB & Bases de datos locales
+chroma_db/
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/

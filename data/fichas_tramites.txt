@@ -1,0 +1,45 @@
+=== PGU (Pensión Garantizada Universal) ===
+Descripción: Es un beneficio del Estado que reemplaza a los beneficios del Pilar Solidario, cuyo pago mensual está a cargo del Instituto de Previsión Social (IPS).
+Requisitos:
+- Tener 65 años o más de edad.
+- No integrar el 10% más rico de la población.
+- Acreditar residencia en el territorio de la República de Chile: período no inferior a 20 años continuos o discontinuos, o un lapso no inferior a cuatro años en los últimos cinco años previos a la solicitud.
+- Contar con una pensión base menor a $1.158.355.
+Monto: El monto máximo es de $214.296 mensuales.
+Fuente: https://www.chileatiende.gob.cl/fichas/65066-pension-garantizada-universal-pgu
+
+=== Bono al Trabajo de la Mujer (BTM) ===
+Descripción: Beneficio en dinero que entrega el Estado para mejorar los ingresos de las mujeres trabajadoras.
+Requisitos:
+- Tener entre 25 y 59 años de edad.
+- Pertenecer al 40% más vulnerable de la población según el Registro Social de Hogares (RSH).
+- Mantener las cotizaciones al día.
+- No trabajar en una Institución del Estado.
+Monto: Depende de la renta y puede pagarse de forma anual o mensual.
+Fuente: https://www.chileatiende.gob.cl/fichas/1285-bono-al-trabajo-de-la-mujer
+
+=== Subsidio de Arriendo ===
+Descripción: Beneficio habitacional que entrega el Estado para que personas o familias puedan arrendar una vivienda. Es administrado por el MINVU.
+Requisitos:
+- Ser mayor de 18 años.
+- No ser propietario de una vivienda.
+- Pertenecer al 40% más vulnerable según el RSH (Registro Social de Hogares).
+- No haber sido beneficiado previamente con un subsidio habitacional.
+Monto: Varía según zona geográfica y puede llegar hasta 5 UF mensuales.
+Fuente: https://www.chileatiende.gob.cl/fichas/11281-subsidio-de-arriendo
+
+=== Bono de Invierno ===
+Descripción: Beneficio anual pagado entre mayo y agosto para ayudar a financiar gastos de calefacción durante el invierno.
+Requisitos:
+- Tener 65 años o más al 31 de mayo del año del pago.
+- Ser beneficiario de PGU, Pensión Básica Solidaria o Aporte Previsional Solidario.
+Monto: Varía cada año; históricamente entre $50.000 y $100.000 en un solo pago.
+Fuente: https://www.chileatiende.gob.cl/fichas/2213-bono-de-invierno
+
+=== Asignación Familiar ===
+Descripción: Beneficio económico mensual para los trabajadores, pensionados y beneficiarios del Seguro de Cesantía por cada carga familiar acreditada.
+Requisitos:
+- Ser trabajador dependiente, pensionado o imponente de alguna Caja de Previsión.
+- Acreditar cargas familiares (hijos hasta 18 años, o hasta 24 si son estudiantes).
+Monto: Depende del tramo de renta del causante.
+Fuente: https://www.chileatiende.gob.cl/fichas/14901-asignacion-familiar
